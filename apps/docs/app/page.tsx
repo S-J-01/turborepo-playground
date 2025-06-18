@@ -12,6 +12,12 @@ export default function Home() {
         exercitationem esse fugiat maxime voluptatibus dolorum enim magni
         mollitia, error totam eligendi vitae ab quam.
       </div>
+      <div>
+        2nd div added in branch two. Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Dolorem odit quasi at distinctio autem ut modi
+        deserunt officiis magni maiores pariatur illo aspernatur eveniet
+        inventore, porro error soluta sit laudantium?
+      </div>
     </div>
   );
 }
