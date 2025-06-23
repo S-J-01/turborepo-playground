@@ -18,6 +18,13 @@ export default function Home() {
         deserunt officiis magni maiores pariatur illo aspernatur eveniet
         inventore, porro error soluta sit laudantium?
       </div>
+      <div>
+        3rd div added.based on branch two so first 2 div are here. Lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Eaque eum libero
+        perspiciatis atque corrupti architecto adipisci et! Sunt cumque minus
+        praesentium. Similique officiis optio repudiandae neque voluptates nulla
+        nam dignissimos.
+      </div>
     </div>
   );
 }
